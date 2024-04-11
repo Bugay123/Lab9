@@ -4,9 +4,9 @@ using Windows.UI.Xaml.Controls;
 
 namespace Lab9
 {
-    public sealed partial class AddStudentPage : Page
+    public sealed partial class AddTrackPage : Page
     {
-        public AddStudentPage()
+        public AddTrackPage()
         {
             this.InitializeComponent();
             ViewModel = App.ViewModel;
